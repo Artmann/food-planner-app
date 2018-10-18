@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "imageUrl": "https://www.ica.se//icase.azureedge.net/imagevaultfiles/id_189109/cf_259/fajitaskryddad-karre-i-pita-724611.jpg",
+      "title": "Fajitaskryddad karré i pita",
+      "tags": ["Kött"]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://www.ica.se//icase.azureedge.net/imagevaultfiles/id_188185/cf_259/kramig-pasta-med-kycklinglarfile-och-basilika-7244.jpg",
+      "title": "Krämig pasta med kycklinglårfilé och basilika",
+      "tags": ["Kött"]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://www.ica.se//icase.azureedge.net/imagevaultfiles/id_188096/cf_259/pulled-chickenwrap-med-avokado-724482.jpg",
+      "title": "Pulled chicken wrap med avokado",
+      "tags": ["Kött"]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.ica.se//icase.azureedge.net/imagevaultfiles/id_188858/cf_259/tandooristekt-kyckling-med-tzatziki-724564.jpg",
+      "title": "Tandooristekt kyckling med tzatziki",
+      "tags": ["Enkelt", "Kött"]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://www.ica.se//icase.azureedge.net/imagevaultfiles/id_189203/cf_259/laxpasta-med-tomat-724621.jpg",
+      "title": "Laxpasta med tomat och pepparrot",
+      "tags": ["Pasta", "Fisk"]
+    }
+  ]
+}

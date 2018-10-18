@@ -1,0 +1,10 @@
+.recipe-slider {
+  padding: 1rem 2rem;
+}
+
+.recipe-slider__container {
+  display: flex;
+  flex: 1;
+  overflow-x: auto;
+  padding-bottom: 1.5rem;
+}

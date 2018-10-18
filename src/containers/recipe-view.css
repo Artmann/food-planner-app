@@ -1,0 +1,19 @@
+.recipe-view {
+  width: 100%;
+}
+
+.recipe-view__details {
+  padding: 0.5rem 1.5rem 4rem 1.5rem;
+}
+
+.recipe-view__header-image {
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 24rem;
+  width: 100%;
+}
+
+.recipe-view__title {
+  font-size: 1.5rem;
+  width: 100%;
+}
