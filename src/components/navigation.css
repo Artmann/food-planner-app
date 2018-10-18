@@ -5,7 +5,7 @@
   justify-content: space-between;
   left: 0;
   right: 0;
-  position: absolute;
+  position: fixed;
 }
 
 .navigation__link {
